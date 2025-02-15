@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yangfan19
 - 👀 I’m interested in .NET
-- 🌱 I’m currently learning Dapr
+
 
 
 <!---
